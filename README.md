@@ -14,27 +14,88 @@ I am a WordPress Developer with 5+ years of experience building, customizing, an
 * **Optimization:** Website Speed, Core Web Vitals, SEO, Website Security
 * **Tools:** Git, GitHub, Google Search Console
 
-## 💼 Featured Projects
+## 🌐 Live WordPress Portfolio
 
-### 1. Custom WordPress Plugins
+I have experience developing and customizing WordPress websites across multiple industries. Below is a selection of live projects I have worked on.
 
-Developing custom plugins and Elementor widgets to extend WordPress functionality.
+### 🏢 Business & Corporate Websites
 
-### 2. WooCommerce Development
+* [Pinnacle Microtech](https://www.pinnaclemicrotech.com/)
+* [Yash Seals](https://yashseals.com/)
+* [MW Building Supply](https://www.mwbuildingsupply.com.au/)
+* [Illusion Flyscreens](https://www.illusionflyscreens.com.au/)
+* [SS Bahira Infra](https://ssbahirainfra.com/)
+* [Adlink India](https://adlinkindia.co.in/)
+* [Ultima D](https://ultimad.in/)
+* [ANMG](https://anmg.com.au/)
 
-Building product listings, custom shop layouts, cart functionality, and eCommerce features.
+### 🏥 Healthcare & Medical Websites
 
-### 3. Business Website Development
+* [BC Dental](https://www.bcdental.com.au/)
+* [Crystal Dental Imaging](https://www.crystaldentalimaging.com/)
+* [Toorak Smiles](https://tooraksmiles.com.au/)
+* [SpineX Physiocare](https://spinexphysiocare.com.au/)
+* [ANMH](https://anmh.com.au/)
+* [Vansh IVF](https://vanshivf.com/)
+* [Javitri Hospital](https://javitrihospital.co.in/)
+* [Lineage Healthcare](https://lineagehealthcare.in/)
+* [Ezra Biotech](https://ezrabiotech.com/)
 
-Creating responsive, user-friendly business websites with SEO-friendly structures.
+### 🛒 Product & eCommerce Websites
 
-## 🌐 Portfolio
+* [Amit Agro Foods](https://amitagrofoods.com/)
+* [JK Botanicals](https://jkbotanicals.com/)
+* [Organik Kissan](http://organikkissan.com/)
+* [Kingdom of Goodness](https://kingdomofgoodness.com.au/)
 
-Visit my website: https://elevatewebtechnology.com/
+### 🎓 Education, Government & Organizations
+
+* [NSCD](https://nscd.gov.in/)
+* [RSCL](https://rscl.nscd.gov.in/)
+* [KPSC](https://kpsc.nscd.gov.in/)
+* [IT College](https://itcollege.ac.in/)
+* [Ayodhya](https://ayodhya.org.in/)
+* [Smarak Samiti](https://smaraksamiti.org/)
+* [U.P. Lok Kala](https://uplokkala.com/)
+* [Syadwad](https://syadwad.org/)
+
+### 💼 Professional Services & Real Estate
+
+* [Parminder Sandhu Solicitors](https://parmindersandhusolicitors.com.au/)
+* [Car Finance 4 You](https://www.carfinance4you.com.au/)
+* [RM Reality](https://rmreality.com/)
+* [Canada SOP](https://canadasop.com/)
+* [Life Lensed](https://lifelensed.com/)
+
+### ✈️ Travel, Events & Hospitality
+
+* [The Wedding Factor with Neha](https://theweddingfactorwithneha.com.au/)
+* [Astra Tours](https://astratours.com.au/)
+* [Ultima Function](https://ultimafunction.com.au/)
+* [Tikka Masala](https://tikkamasala.us/)
+
+### 🌿 Other Projects
+
+* [Devastra by Rudrava](https://devastrabyrudrava.com/)
+* [Techvizo — NGA](https://techvizo.in/nga/)
+
+---
+
+## 🛠️ Development Expertise
+
+* WordPress Website Development & Customization
+* Custom Themes and Plugins
+* Elementor and Page Builder Customization
+* PHP, HTML5, CSS3 and JavaScript
+* WooCommerce Development
+* Responsive Web Design
+* Website Performance and SEO Optimization
+* Website Maintenance, Bug Fixes and Troubleshooting
 
 ## 📫 Contact
 
-* Mail: mohdfarhaz2015@gmail.com
-* Phone: +919807826247
+* **GitHub:** [mohammadfarhaz](https://github.com/mohammadfarhaz)
+* **Portfolio:** [Elevate Web Technology](https://elevatewebtechnology.com/)
 
-I am always interested in learning new technologies and building better web experiences.
+*Note: Project links are provided for portfolio demonstration. Specific development contributions and technologies may vary by project.*
+
